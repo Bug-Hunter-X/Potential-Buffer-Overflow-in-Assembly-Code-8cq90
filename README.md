@@ -1,0 +1,1 @@
+This repository demonstrates a common error in assembly language programming: a potential buffer overflow. The `bug.asm` file contains the vulnerable code, which can lead to unexpected program behavior or crashes. The solution, shown in `bugSolution.asm`, addresses the issue by adding bounds checking before accessing memory.
